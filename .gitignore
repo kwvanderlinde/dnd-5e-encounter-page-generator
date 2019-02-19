@@ -1,0 +1,6 @@
+.~lock.fillable.odg#
+.mypy_cache/
+__pycache__/
+fillable.fdf
+filled.pdf
+values.fdf

@@ -1,0 +1,3 @@
+[submodule "Encounter-Sheet-Imports"]
+	path = Encounter-Sheet-Imports
+	url = git@github.com:kwvanderlinde/Encounter-Sheet-Imports.git
